@@ -1,0 +1,9 @@
+[package]
+name = "conway"
+version = "0.1.0"
+authors = ["Jack Robison <jackrobison@lbry.io>"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5.2"
+rand = "0.6.5"
